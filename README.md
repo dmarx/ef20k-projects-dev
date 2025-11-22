@@ -1,6 +1,6 @@
-# EPSTEIN_FILES_20K Projects
+# Projects using EPSTEIN FILES 20K 
 
-A curated collection of community projects built using the [EPSTEIN_FILES_20K dataset](https://huggingface.co/datasets/EPSTEIN_FILES_20K) from Hugging Face.
+A curated collection of community projects built using the [EPSTEIN_FILES_20K dataset](https://huggingface.co/datasets/tensonaut/EPSTEIN_FILES_20K) from Hugging Face.
 
 ## About the Dataset
 
@@ -42,7 +42,7 @@ This is a community-driven collection. If you've built a project using the EPSTE
 
 ## Dataset Access
 
-The original dataset can be accessed at: [EPSTEIN_FILES_20K on Hugging Face](https://huggingface.co/datasets/EPSTEIN_FILES_20K)
+The original dataset can be accessed at: [EPSTEIN_FILES_20K on Hugging Face](https://huggingface.co/datasets/tensonaut/EPSTEIN_FILES_20K)
 
 ## Disclaimer
 
