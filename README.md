@@ -6,15 +6,13 @@
   </p>
   
   <p>
-    
-    <a href="https://huggingface.co/EF20K/Projects">Active Projects</a>
+    <a href="https://github.com/EF20K/Projects">Active Projects</a>
     •
-    <a href="https://github.com/EF20K/Datasets">Documentation</a>
+    <a href="https://github.com/EF20K/Dataset">Documentation</a>
     •
     <a href="https://github.com/EF20K/Safety/issues/">Report Misuse</a>
   </p>
 </div>
-
 <br />
 
 ## Important Context
