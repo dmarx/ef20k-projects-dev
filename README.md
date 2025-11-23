@@ -8,8 +8,6 @@
   <p>
     <a href="https://github.com/EF20K/Projects">Active Projects</a>
     •
-    <a href="https://github.com/EF20K/Dataset">Documentation</a>
-    •
     <a href="https://github.com/EF20K/Safety/issues/">Report Misuse</a>
   </p>
 </div>
