@@ -49,15 +49,6 @@ These tools aim to support:
 For researchers new to the dataset:
 - **[Getting_Started_w_Dataset.ipynb](Getting_Started_w_Dataset.ipynb)** - Basic exploration with emphasis on verification
 
-### Technical Background
-
-The baseline implementation uses:
-- RAG (Retrieval Augmented Generation) for document analysis
-- Hybrid search combining BM25 and vector similarity
-- Multiple verification checkpoints
-
-Note: This baseline has known limitations and should be improved through community contribution.
-
 ## Available Tools
 
 ### Document Search & Analysis
