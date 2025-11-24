@@ -78,26 +78,21 @@ For researchers new to the dataset:
 - Client-side processing only
 - Interactive relationship mapping
 
-## Contributing Responsibly
-
-### Before Contributing
-
-Ensure your project:
-- Serves legitimate investigative or research purposes
-- Includes clear warnings about AI limitations
-- Respects all redactions and privacy protections
-- Provides transparent methodology
-- Enables verification of findings
 
 ### Adding a Project
 
-1. Fork this repository
-2. Add your project with:
-   - Clear purpose statement
-   - Verification capabilities
-   - Privacy approach
-   - Methodology documentation
-3. Submit pull request with ethical use statement
+1. **Fork this repository** and clone it locally
+
+2. **Add your project** with:
+   - Project name and description
+   - How it supports open investigation
+   - Link to your public repository
+   - Warning about AI limitations and need to verify findings against source documents
+
+3. **Submit a pull request** with a brief ethical use statement confirming you will:
+   - Respect all redactions
+   - Follow journalistic ethics
+   - Report findings responsibly
 
 ### Reporting Issues
 
@@ -105,14 +100,6 @@ Ensure your project:
 - **Errors**: Document discrepancies with source materials
 - **Concerns**: Flag any problematic usage patterns
 
-## Ethical Requirements
-
-All projects must:
-- Never attempt to identify redacted individuals
-- Prioritize accuracy over sensationalism
-- Enable traceability to source documents
-- Support professional investigation standards
-- Respect the gravity of the subject matter
 
 ## Resources
 
